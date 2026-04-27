@@ -4,7 +4,7 @@ I've been writing code since 1983, when I was eight years old and my dad brought
 
 I joined the **Marine Corps** in 1993, where I learned electronics repair. After my service, I studied at Nashville Auto Diesel College and turned wrenches for a few years. Then I went back to school at **Middle Tennessee State University** and studied **philosophy** — learning how to think clearly about hard problems turned out to be the most useful technical skill I ever picked up.
 
-I turned computers into a career and spent **13 years at Schneider Electric**, working my way through environmental engineering and healthcare technology before settling into industrial automation and energy management. I left to pursue blockchain full-time as co-founder and **CTO of [W3.io](https://w3.io)**, where we build programmable financial infrastructure.
+I turned computers into a career and spent **11 years at Schneider Electric**, working my way through environmental engineering and healthcare technology before settling into industrial automation and energy management. I left to pursue blockchain full-time as co-founder and **CTO of [W3.io](https://w3.io)**, where we build programmable financial infrastructure.
 
 Now I'm leaning hard into **AI and reinforcement learning** — partly because it applies directly to my work, and partly because I've never been able to leave a hard problem alone.
 
@@ -34,8 +34,8 @@ Now I'm leaning hard into **AI and reinforcement learning** — partly because i
 1993-1997  United States Marine Corps — electronics repair
 1997-1999  Nashville Auto Diesel College — turned wrenches
 2003       B.A. Philosophy, MTSU
-2003-2006  Environmental engineering, healthcare IT
-2006-2019  Schneider Electric (13 years)
+2004-2009  Environmental engineering, healthcare IT
+20010-2021  Schneider Electric (11 years)
 2019-now   Co-founder & CTO, W3.io
 2024-now   AI research — reinforcement learning, formal verification
 ```
