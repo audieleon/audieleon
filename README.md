@@ -16,7 +16,10 @@ Now I'm leaning hard into **AI and reinforcement learning** — partly because i
 <tr>
 <td width="50%" valign="top">
 
-**[goodhart](https://github.com/audieleon/goodhart)** — Static reward analysis for reinforcement learning. Catches structural traps in reward functions before you spend compute training. 40 rules, 92 LEAN 4 proofs, zero `sorry`.
+**[goodhart](https://github.com/audieleon/goodhart)** `pip install goodhart`
+Static reward analysis for reinforcement learning. Catches structural traps in reward functions before you spend compute training. 40 rules, 92 LEAN 4 proofs, zero `sorry`.
+
+[![CI](https://github.com/audieleon/goodhart/actions/workflows/ci.yml/badge.svg)](https://github.com/audieleon/goodhart/actions/workflows/ci.yml) [![License](https://img.shields.io/badge/Apache_2.0-blue.svg)](https://github.com/audieleon/goodhart/blob/main/LICENSE)
 
 </td>
 <td width="50%" valign="top">
