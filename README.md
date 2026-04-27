@@ -38,7 +38,7 @@ Static reward analysis for reinforcement learning. Catches structural traps in r
 1997-1999  Nashville Auto Diesel College — turned wrenches
 2003       B.A. Philosophy, MTSU
 2004-2009  Environmental engineering, healthcare IT
-20010-2021  Schneider Electric (11 years)
+2010-2021  Schneider Electric (11 years)
 2019-now   Co-founder & CTO, W3.io
 2024-now   AI research — reinforcement learning, formal verification
 ```
